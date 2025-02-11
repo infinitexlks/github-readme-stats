@@ -73,7 +73,7 @@ Use `?theme=THEME_NAME` parameter like so:
 | `date_night` ![date_night][date_night_repo] | `one_dark_pro` ![one_dark_pro][one_dark_pro_repo] | `rose` ![rose][rose_repo] |
 | `holi` ![holi][holi_repo] | `neon` ![neon][neon_repo] | `blue_navy` ![blue_navy][blue_navy_repo] |
 | `calm_pink` ![calm_pink][calm_pink_repo] | `ambient_gradient` ![ambient_gradient][ambient_gradient_repo] | [Add your theme][add-theme] |
-
+| `blue_gradient` ![blue gradient][blue gradient repo] |
 
 [default]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
 [default_repocard]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default_repocard
